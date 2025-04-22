@@ -1,0 +1,40 @@
+# Python virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# PyCharm files
+.idea/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs and databases
+*.log
+logs/
+*.sqlite
+
+# Model files
+*.h5
+*.pt
+*.pth
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Videos and large media files (uncommenting this would ignore your Display Content)
+# *.mp4
+# *.avi
+# *.mov
