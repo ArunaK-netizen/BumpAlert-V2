@@ -1,7 +1,6 @@
 # Python virtual environments
 .venv/
 venv/
-ENV/
 
 # PyCharm files
 .idea/
