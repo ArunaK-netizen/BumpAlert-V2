@@ -1,6 +1,5 @@
 # Python virtual environments
 .venv/
-env/
 venv/
 ENV/
 
@@ -40,3 +39,4 @@ Thumbs.db
 # *.mov
 
 Display Content/
+bumper_camera_images/
