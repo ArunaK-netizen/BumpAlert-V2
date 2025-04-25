@@ -38,11 +38,6 @@ We implement Proximal Policy Optimization (PPO) to optimize detection performanc
 - Hyperparameters fine-tuned for the specific task
 - Checkpoint saving to preserve intermediate model improvements
 
-## Demo Videos
-The project includes demo videos in the "Display Content" folder:
-- [Recording 2025-04-22 204316.mp4](Display%20Content/Recording%202025-04-22%20204316.mp4) - Shows the simulation environment and vehicle behavior
-- [Recording 2025-04-22 211100.mp4](Display%20Content/Recording%202025-04-22%20211100.mp4) - Demonstrates real-time detection capabilities
-
 ## Performance Metrics
 - **Detection Accuracy**: ~94% on test dataset
 - **False Positive Rate**: <3%
